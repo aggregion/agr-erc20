@@ -1,0 +1,17 @@
+{
+  "package_name": "agr-erc20",
+  "version": "1.0.0",
+  "description": "Aggregion ERC-20 token smart contract",
+  "authors": [
+    "Aggregion Community <info@aggregion.com>"
+  ],
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "security",
+    "aggregion"
+  ],
+  "license": "MIT"
+}
