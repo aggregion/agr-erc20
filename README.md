@@ -1,6 +1,6 @@
 # Aggregion ERC-20 token smart contract
 
-Main contract script location: contracts/token/AGR.sol
+Main contract code located at: AGR_full.sol
 
 Based on OpenZeppelin - https://github.com/OpenZeppelin/openzeppelin-solidity
 
